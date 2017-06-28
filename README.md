@@ -1,0 +1,1 @@
+# Vertabelo-Academy---SQL-Essentials---Creating-Tables-In-SQL-Course
